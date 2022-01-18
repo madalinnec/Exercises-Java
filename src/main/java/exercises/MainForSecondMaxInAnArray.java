@@ -1,3 +1,5 @@
+package exercises;
+
 public class MainForSecondMaxInAnArray {
     public static void main(String[] args) {
         int[] array = {5, 3, 2, 65, 647, 23, 12, 7, 974534, 23, 56, 753, 112, 22, 45, 0};

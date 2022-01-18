@@ -1,3 +1,5 @@
+package exercises;
+
 public class MainForStringPalindrome {
     public static void main(String[] args) {
         String string = "aba";

@@ -1,3 +1,5 @@
+package exercises;
+
 public class MainForSmallestDifferenceInArray {
     public static void main(String[] args) {
         int[] array = {12,34,25,67,86,42,11,24,5,2,124,6,8,86,89};

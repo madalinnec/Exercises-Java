@@ -1,3 +1,5 @@
+package exercises;
+
 public class MainForStringFirstLetter {
     public static void main(String[] args) {
         String words = "Let's see if this actually works and a c";

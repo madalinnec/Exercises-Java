@@ -1,3 +1,5 @@
+package exercises;
+
 public class MainForFibonacci {
     public static void main(String[] args) {
         int highestValueToBeReached = 2000;
